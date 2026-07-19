@@ -1,0 +1,15 @@
+# Secretos — NUNCA versionar credenciales
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datos y logs generados por el bot
+data/
+*.db
+*.db-journal
+logs/
+*.log

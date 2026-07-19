@@ -1,0 +1,5 @@
+# SDK oficial de Alpaca (trading + market data)
+alpaca-py>=0.33.0
+
+# Carga de variables de entorno desde .env
+python-dotenv>=1.0.0
