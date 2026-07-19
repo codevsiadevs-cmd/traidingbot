@@ -1,0 +1,2 @@
+# traidingbot
+Traiding bot
